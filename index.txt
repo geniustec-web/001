@@ -1,7 +1,11 @@
 this ok
+<<<<<<< HEAD
 111
 
 222
 
 
 dsfsdfsdfsdf
+=======
+111
+>>>>>>> parent of 1d29179... ee
